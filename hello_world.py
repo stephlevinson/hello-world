@@ -1,3 +1,5 @@
+print("goodbye")
+
 print("hi")
 
 def foo():
